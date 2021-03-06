@@ -1,0 +1,30 @@
+body{
+    text-align: 1000px
+
+    
+}
+.form-control{
+    margin: 3px 0px;
+    padding: 5px;
+    border: none;
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0 0 3px blue;
+    color: black;
+    outline: none;
+    box-shadow: 0 0 3px blue;
+}
+.footer{
+    border-top: 5px double blue;
+    background-color: lightcyan;
+    text-align: left 20px;
+    line-height: 20px;
+    font-variant: small-caps;
+    clear: both;
+    min-height: 40px;
+    padding-left: 50px;
+    font-size: 15px;
+}
+.gioi-tinh{
+    text-align: center;
+}
